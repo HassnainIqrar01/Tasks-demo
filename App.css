@@ -1,0 +1,21 @@
+
+.form-container {
+  width: 300px; /* Adjust width as needed */
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px; /* Adjust spacing between fields */
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px; /* Adjust spacing between label and input */
+}
+
+.error-message {
+  color: red;
+  margin-top: 5px; /* Adjust spacing between input and error message */
+}
